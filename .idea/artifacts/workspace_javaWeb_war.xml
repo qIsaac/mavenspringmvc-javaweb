@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="workspace-javaWeb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="maven-springmvc-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="workspace-javaWeb:war exploded" />
+    </root>
+  </artifact>
+</component>
